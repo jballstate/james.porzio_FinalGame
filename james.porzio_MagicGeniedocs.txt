@@ -1,0 +1,21 @@
+James Porzio
+Final Game Project
+Magic Genie Game
+
+#Import random functions from random module to create random fortunes
+#import pygame for sound effects
+# initialize pygame 
+# load wishgrantedagain sound file
+# pygame mixer
+# define new function to play the sound
+#Create "inventory" of possible genie responses
+# Print explanation for user
+# print directions for user
+# Ask the user to type 1 to start game, store response in "choice"
+# if the user choice is 1 start the game and ask for wish
+# ask for wish from user
+# user will get random genie response either granting or denying wish
+# print magic genie response
+# play sound during genie response
+# text response for invalid user input
+
